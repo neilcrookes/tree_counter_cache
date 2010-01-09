@@ -1,6 +1,6 @@
 # TreeCounterCache
 
-An extension to CakePHP’s core TreeBehavior that provides counterCache functionality for all children and/or direct children of each node in the tree. Packaged as a plugin with a fixture and unit tests with 100% code coverage.
+An extension to CakePHP's core TreeBehavior that provides counterCache functionality for all children and/or direct children of each node in the tree. Packaged as a plugin with a fixture and unit tests with 100% code coverage.
 
 ## Usage
 
@@ -18,7 +18,7 @@ An extension to CakePHP’s core TreeBehavior that provides counterCache functiona
 
 ## Why?
 
-Useful if you ever need to know whether a node has child nodes, e.g. for adding a CSS class to alter the style of that node to indicate to the user there is something beneath it. Caching the count saves extra db queries. To be honest, it’s not that great really is it? Still, might be useful to someone.
+Useful if you ever need to know whether a node has child nodes, e.g. for adding a CSS class to alter the style of that node to indicate to the user there is something beneath it. Caching the count saves extra db queries. To be honest, it's not that great really is it? Still, might be useful to someone.
 
 ## Todo
 
